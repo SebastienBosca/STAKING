@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe787dbecc1b4f2ec3e513db77f7583f",
+    "revision": "07ed98041f751f8a16071283a7fbbd95",
     "url": "/STAKING/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/STAKING/static/css/2.68a81a89.chunk.css"
   },
   {
-    "revision": "5efde542e4649ce0ec01",
+    "revision": "a402e9c761842dcaa8ce",
     "url": "/STAKING/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/STAKING/static/js/2.42e521a8.chunk.js"
   },
   {
-    "revision": "5efde542e4649ce0ec01",
-    "url": "/STAKING/static/js/main.95838b21.chunk.js"
+    "revision": "a402e9c761842dcaa8ce",
+    "url": "/STAKING/static/js/main.2dab0123.chunk.js"
   },
   {
     "revision": "812935d27ee5d4c49f0f",
